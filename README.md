@@ -1,4 +1,8 @@
-Hello there! This is my first game as a Web Development project. It is called a Color Game
+Hello there! This is my first game as a Web Development project. It is called a Color Game.
+
+The goal in this game is to guess a color an RGB Color that consists of 3 parameters: red, green, blue.
+
+I was really struggling with the RGB system in the beginning and couldn't find any solution to memorize them quickly. This was why I decided to make this project. 
 
 In this game you can:
 
