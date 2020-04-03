@@ -11,9 +11,11 @@ The features of this game are:
 2) "Play Again" and "New colors" functions. When the game is over, a user can press the "Play Again" button to play the game one more time.
 Besides when playing a game, a user can get random new colors by pressing "New colors" button in the left top corner.
 
-3) If a user clicks on a wrong square, it disappears. That leaves fewer options to choose with every choice the player makes. In fact the square isn't removed from the screen. Its color is just turned into the background color and a user cannot see it. However, it still exists in the HTML.
+3) By clicking on a new difficulty mode, the game generates the random colors. The number of the random generated squares with colors always matches the difficulty mode.
 
-4) After the game is finished and the right color is guessed, all the squares and the header of the page turn into the color of the correct color
+4) If a user clicks on a wrong square, it disappears. That leaves fewer options to choose with every choice the player makes. In fact the square isn't removed from the screen. Its color is just turned into the background color and a user cannot see it. However, it still exists in the HTML.
+
+5) After the game is finished and the right color is guessed, all the squares and the header of the page turn into the color of the correct color
 
 The app is made with:
 1) HTML, 
